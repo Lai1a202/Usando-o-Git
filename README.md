@@ -7,6 +7,6 @@ auterações.
 ## Segundo passo:
 - Use o comando *git add .* para salvar as auterações.
 ### Terceiro passo:
-- Utilise o comando *git commit "imformações da sua preferencia"* par intiquetar as suas aulterações.
+- Utilise o comando *git commit "imformações da sua preferencia"* par intitular as suas aulterações.
 ## Site para estudo:
 - [Documentação do Git](https://git-scm.com/doc)
