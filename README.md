@@ -1,6 +1,6 @@
-# 💻 Usando o Git e o Github 
+# 💻 Como transferir atualizações do repositório local para o repositório remoto 
 
-Como transferir atualizações do repositorio local para o repositorio remoto 💻
+Com o Git e o Github 💻
 ## 📋 Passo a passo:
 ### Primeiro passo:
 - Use o comando *git status* para ver as 
