@@ -5,6 +5,10 @@ Com o Git e o Github 💻
 ### Primeiro passo:
 - Use o comando *git status* para ver as 
 auterações.
+
+![imagem 2](https://github.com/Lai1a202/teste-1/assets/148493926/b01ab1c2-b7f8-4c2e-9675-8b63441fc9fa)
+
+
 ### Segundo passo:
 - Use o comando *git add .* para salvar as auterações.
 ### Terceiro passo:
