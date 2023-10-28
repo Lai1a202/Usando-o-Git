@@ -27,7 +27,7 @@ auterações.
 
 
 ### Quarto passo:
-- Depois de ter feito o esposto acima, se você estiver trabalhando em equipe ou estiver feito alguma alteração no repositório remoto recentemente e não tiver passado as auterações para o repositório local usar o comando `git pull origin main` antes de usar o comando `git pull origin main`, se não over nenhum desses casos basta usar o `git pull origin main` e todas as alterações serão transferidas para o repositório remoto.
+- Depois de ter feito o esposto acima, se você estiver trabalhando em equipe ou estiver feito alguma alteração no repositório remoto recentemente e não tiver passado as auterações para o repositório local usar o comando `git pull origin main` antes de usar o comando `git push origin main`, se não over nenhum desses casos basta usar o `git push origin main` e todas as alterações serão transferidas para o repositório remoto.
 
  ![imagem 6 (2)](https://github.com/Lai1a202/teste-1/assets/148493926/27637c94-e354-4aa4-8824-c9ffb513cccf)
 
